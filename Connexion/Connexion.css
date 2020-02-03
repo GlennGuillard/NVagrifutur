@@ -71,3 +71,9 @@ button {
 	flex-direction:column
 	
 }
+a
+{text-decoration : none;
+color: white;
+display: flex;
+  justify-content: center;
+  align-items : center;}
