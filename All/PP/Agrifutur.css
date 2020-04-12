@@ -1,0 +1,202 @@
+nav
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+nav ul
+{
+	list-style-type : none;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	background-color : Transparent;
+}
+
+nav a
+{
+	text-decoration : none;
+	color : black;
+	font-size : 24px;
+	display : block;
+	padding: 10px 16px 6px 16px ;
+}
+
+nav a:hover {
+	color : white;
+	background : black;
+}
+#images
+{
+display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+
+}
+#PO
+{
+display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: column;
+		padding: 20px 20px 20px 20px;
+	margin : 0px 0px 0px 0px;
+
+}
+#PA
+{display: flex;
+	justify-content: center;
+	align-items : center;}
+#DE
+{padding: 10px 10px 10px 10px;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+    justify-content: left;
+	align-items : left;
+	flex-direction:column;
+	text-align: center;
+	width: 500px }
+#TE
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	margin : 0px 0px 0px 0px;
+	padding: 10px 10px 10px 10px;
+
+
+}
+#PRO
+{
+flex-direction:column;
+margin : 0px 110px 0px 0px;
+}
+#MOUAIS
+{padding: 10px 10px 10px 10px;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+    justify-content: left;
+	align-items : left;
+	flex-direction:column;
+	text-align: center;
+	width: 500px 
+	}
+h1
+{
+	font-size: 70px
+}
+#SY
+{font-style: italic;
+	text-decoration:underline;
+	font-size: 35px
+
+}
+#MOUAIS
+{
+	font-style: italic;
+	text-decoration:underline;
+font-size: 50px
+
+}
+#DE
+{
+	font-style: italic;
+font-size: 22px
+}
+#HXT
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+}
+#F
+{flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 118px 0px 118px;
+font-size: 17px;
+}
+
+#G
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+}
+#FG
+{flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 10px 0px 140px;
+font-size: 17px}
+#FGH
+{
+	flex-direction:column;
+	text-align: center;
+	width: 300px; 
+margin : 0px 140px 0px 10px;
+font-size: 17px
+}
+h2
+{font-style: italic;
+	text-decoration:underline;
+font-size: 50px;
+display: flex;
+	justify-content: center;
+	align-items : center;
+
+}
+#Chee
+{
+	display: flex;
+flex-direction: row;
+justify-content: center;
+	align-items : center;
+	text-align: center;
+font-style: italic;
+font-size: 22px;
+width: 500px;
+
+}
+#Bon
+{
+	display: flex;
+    justify-content: center;
+	align-items : center;
+	flex-direction:column;
+	text-align: center;
+	
+
+}
+#AUDD
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	text-align: center;
+}
+#Che
+{
+font-size: 20px;
+width: 300px;
+text-align: center; 
+ justify-content: center;
+	align-items : center;
+padding: 0px 100px 0px 100px;
+text-decoration:underline;}
+#NZT
+{
+	display: flex;
+flex-direction: row;
+text-align: center; 
+ justify-content: center;	align-items : center;
+padding: 0px 0px 0px 0px;
+
+}

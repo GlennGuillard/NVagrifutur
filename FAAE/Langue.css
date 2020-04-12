@@ -1,0 +1,39 @@
+body{
+ background : url("TEST1.jpg")
+}
+
+#PP
+{
+display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+#images
+{
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column
+}
+#STP
+{
+
+margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	}
+
+button {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;}
+
+h1{
+	color:black;
+}

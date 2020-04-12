@@ -1,0 +1,102 @@
+#oula
+{background:rgb(40, 0, 35);}
+nav
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+nav ul
+{
+	list-style-type : none;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	background-color : Transparent;
+}
+
+nav a
+{
+	text-decoration : none;
+	color : white;
+	font-size : 24px;
+	display : block;
+	padding: 10px 16px 6px 16px ;
+}
+nav a:hover {
+	color : black;
+	background : white;
+}
+h1
+{
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	font-style: italic;
+	text-decoration:underline;
+	font-size: 45px
+}
+#SSS
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+#DE
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	
+}
+#CC
+{padding : 0px 350px 0px 200px;
+font-size: 22px;
+font-style: italic}
+#CE
+{padding : 0px 0px 0px 225px;
+font-size: 17px;
+width: 428px;
+font-style: italic
+}
+#FE
+{display: flex;
+	justify-content: center;
+	align-items : center;
+padding : 0px 0px 0px 550px;}
+
+#JU
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	padding : 0px 625px 0px 0px;
+font-size: 22px;
+font-style: italic
+
+}
+
+#LIA
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	padding : 0px 430px 0px 0px;
+font-size: 17px;
+width: 428px;
+font-style: italic;
+}
+#AN
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;}

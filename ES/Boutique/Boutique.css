@@ -1,0 +1,85 @@
+#PP
+{
+display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+#IMG {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+
+}
+
+#PO
+{
+	flex-direction:column;
+	align-items : center;
+
+}
+p{align-items : center;
+	color: white;
+
+}
+body
+{
+	background:rgb(40, 0, 35);
+}
+h1
+{
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	font-style: italic;
+	text-decoration:underline;
+	font-size: 45px
+}
+#IH{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;}
+
+a
+{color: white;}
+nav
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+nav ul
+{
+	list-style-type : none;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	background-color : Transparent;
+}
+
+nav a
+{
+	text-decoration : none;
+	color : white;
+	font-size : 24px;
+	display : block;
+	padding: 10px 16px 6px 16px ;
+}
+
+nav a:hover {
+	color : black;
+	background : white;
+}
+#FF
+{
+	font-style: italic;
+	text-decoration:underline;
+}

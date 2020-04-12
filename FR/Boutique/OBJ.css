@@ -1,0 +1,109 @@
+#oula
+{background:rgb(40, 0, 35);}
+
+}
+nav
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+
+nav ul
+{
+	list-style-type : none;
+	margin : 0px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	background-color : Transparent;
+}
+
+nav a
+{
+	text-decoration : none;
+	color : white;
+	font-size : 24px;
+	display : block;
+	padding: 10px 16px 6px 16px ;
+}
+nav a:hover {
+	color : black;
+	background : white;
+}
+h1
+{
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+	font-style: italic;
+	text-decoration:underline;
+	font-size: 45px
+}
+#SSS
+{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+}
+	
+#GG
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:column;
+}
+
+#CD
+{padding: 0px  0px 0px;
+font-size: 40px}
+
+#CC
+{font-size: 35px}
+#JU
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;font-size: 35px
+}
+#LIA
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;}
+
+#JULIA
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;font-size: 35px;
+color: red}	
+#CY
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction:row;
+font-size: 30px}
+#LENN
+{
+	justify-content: center;
+	align-items : center;
+	display: flex;
+	flex-direction:row;}
+
+#CYLENN
+	{justify-content: center;
+	align-items : center;	
+	display: flex;
+	flex-direction:column;}
+
+#GE
+{
+
+	padding: 0px 150px 0px 150px ;
+}
